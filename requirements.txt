@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+numpy==1.22.3
+pygmt==v0.6.1
+xarray==0.17.0
