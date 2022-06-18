@@ -1,4 +1,4 @@
-name: 3D-Antarctic-maps
+name: PlanetaryMaps
 channels:
   - conda-forge
   - defaults
