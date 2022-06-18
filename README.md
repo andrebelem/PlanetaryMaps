@@ -10,7 +10,7 @@ Some other experiments, bonus maps and more tutorials geared towards some planet
 
 If you are in a hurry, you can jump directly to the colab version here. Just follow the instructions in the notebook. <a href="https://github.com/andrebelem/MarsMaps/blob/main/Mars%20Maps%20with%20pygmt%20%5Bextended%20version%5D.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br>
 or click here to a Binder version
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebelem/PlanetaryMaps/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fandrebelem%2FPlanetaryMaps%2Fblob%2Fmain%2FMars%2520Maps%2520with%2520pygmt%2520%255Bextended%2520version%255D.ipynb) (Be patient. This may take a while).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebelem/PlanetaryMaps/HEAD?labpath=Mars%20Maps%20with%20pygmt%20%5Bextended%20version%5D.ipynb) (Be patient. This may take a while).
 
 
 History:<br>
