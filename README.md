@@ -1,8 +1,10 @@
 # Planetary Maps (in PyGMT)
 
 <p align='center'>
-<img src="https://github.com/andrebelem/MarsMaps/blob/main/JezeroCrater.png" width=400px />
+<img src="https://github.com/andrebelem/MarsMaps/blob/main/JezeroCrater.png" width=400px /><br>
+<a href="https://zenodo.org/badge/latestdoi/493045338"><img src="https://zenodo.org/badge/493045338.svg" alt="DOI"></a>
 </p>
+
 
 This is a repository for the notebook/tutorial I created for the European Geophysical Union course EGU22 SC5.2 Crafting beautiful maps with [**PyGMT**](https://github.com/GenericMappingTools/pygmt), in cooperation with a group formed by [Wei Ji Leong](https://github.com/weiji14), [Leonardo Uieda](https://github.com/leouieda), [Meghan Jones](https://github.com/meghanrjones) (see https://github.com/GenericMappingTools/egu22pygmt).
 
