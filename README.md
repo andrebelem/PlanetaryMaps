@@ -14,7 +14,10 @@ If you are in a hurry, you can jump directly to the colab version here. Just fol
 or click here to a Binder version
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebelem/PlanetaryMaps/HEAD?labpath=Mars%20Maps%20with%20pygmt%20%5Bextended%20version%5D.ipynb) (Be patient. This may take a while).
 
+Reference:<br>
+Tian, Dongdong, Uieda, Leonardo, Leong, Wei Ji, Schlitzer, William, Fröhlich, Yvonne, Grund, Michael, Jones, Max, Toney, Liam, Yao, Jiayuan, Magen, Yohai, Jing-Hui, Tong, Materna, Kathryn, Belem, Andre, Newton, Tyler, Anant, Abhishek, Ziebarth, Malte, Quinn, Jamie, & Wessel, Paul. (2023). PyGMT: A Python interface for the Generic Mapping Tools (v0.10.0). Zenodo. https://doi.org/10.5281/zenodo.8303186.<br>
 
 History:<br>
 June 2022: Now you have access to the 'mola32.nc' file in the repo, *Valles Marineris* 3D map and Jezero Crater map.<br>
+August 2023: Some new ideas coming out.
 
