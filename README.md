@@ -19,5 +19,5 @@ Tian, Dongdong, Uieda, Leonardo, Leong, Wei Ji, Schlitzer, William, Fröhlich, Y
 
 History:<br>
 June 2022: Now you have access to the 'mola32.nc' file in the repo, *Valles Marineris* 3D map and Jezero Crater map.<br>
-August 2023: Some new ideas coming out.
+August 2023: Some new ideas coming out. https://www.planetary.org/articles/0218-mapping-europa
 
