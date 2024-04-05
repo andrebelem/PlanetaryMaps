@@ -2,7 +2,7 @@ README_OR_DIE.TXT
 
 When cloning this repository to your machine to run examples locally,
 it's necessary to have GMT and PyGMT installed in an environment first.
-Users can use the requirements.txt file to set up their environment,
+Users can use the requirements.txt (and environment.yml) file to set up their environment,
 but it's highly recommended to seek details about GMT and PyGMT on the
 website https://www.pygmt.org/latest/get_started/index.html.
 
