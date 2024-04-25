@@ -1,5 +1,8 @@
 # Very Interesting links
 
+- [Mars Express HRSC data node](https://pds-geosciences.wustl.edu/missions/mars_express/hrsc.htm)
+Map-projected image data (V4) with coverage from January 1 through April 23, 2023. Note the orbit 3155 [here](https://pds-geosciences.wustl.edu/mex/mex-m-hrsc-4-refdr-mapproject-ext1-v4/mexhrs_6001/data/3155/) with a ground resolution of approximately 16 m/pixel over Noctis Labyrinthus region. One interesting use is [here](https://github.com/MITHaystack/scikit-dataaccess/blob/master/skdaccess/examples/Demo_ODE.ipynb).
+
 - [Coordinate Systems for Planetary Mapping](https://sbn.psi.edu/mc-f2f/2017/presentations/Europa%20Clipper%20Coordinate%20System%20Convention%2020170803.pdf)
 This work (2017) discusses the establishment of planetary mapping coordinate systems, focusing on the Galilean satellites. Currently, a planetographic system with west-positive longitude is used, but a proposal suggests switching to a planetocentric system with east-positive longitude. It outlines differences, historical context, rationale for the change, and implementation considerations.
 
