@@ -6,7 +6,7 @@ Users can use the requirements.txt (and environment.yml) file to set up their en
 but it's highly recommended to seek details about GMT and PyGMT on the
 website https://www.pygmt.org/latest/get_started/index.html.
 
-Remember to activate your environment "pygmt" before to use these notebooks and install jupyter notebook. **Important note**: In my case, I use miniconda, and I needed to install "notebook" and "ipykernel" in my pygmt environment. 
+Remember to activate your environment "pygmt" before to use these notebooks and install jupyter notebook. **Important note**: In my case, I use miniforge, and I needed to install "notebook" and "ipykernel" in my pygmt environment. 
 
 Run `pip install notebook` to install Jupyter notebook, if not already installed.
 
