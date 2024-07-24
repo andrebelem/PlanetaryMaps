@@ -1,5 +1,5 @@
 matplotlib>=3.8.4
 numpy>=1.26.4
-pygmt>=0.11.0
+pygmt>=0.12.0
 xarray>=2024.3.0
 gdown>=5.1.0
