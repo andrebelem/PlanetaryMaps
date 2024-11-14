@@ -1,17 +1,16 @@
 # Planetary Maps (in PyGMT)
 
 <p align='center'>
-<img src="https://github.com/andrebelem/MarsMaps/blob/main/JezeroCrater.png" width=400px /><br>
+<img src="JezeroCrater.png" width=400px /><br>
 <a href="https://zenodo.org/badge/latestdoi/493045338"><img src="https://zenodo.org/badge/493045338.svg" alt="DOI"></a>
 </p>
 
 History:<br>
-June 2022: Now you have access to the 'mola32.nc' file in the repo, *Valles Marineris* 3D map and Jezero Crater map.<br>
-August 2023: Some new ideas coming out. https://www.planetary.org/articles/0218-mapping-europa
-April 2024: New upgrade for the latest version of pygmt
-July 2024: `binder` option deleted (it's to slow) and a few updates.
-
-This is a repository for the notebook/tutorial I created for the European Geophysical Union course EGU22 SC5.2 Crafting beautiful maps with [**PyGMT**](https://github.com/GenericMappingTools/pygmt), in cooperation with a group formed by [Wei Ji Leong](https://github.com/weiji14), [Leonardo Uieda](https://github.com/leouieda), [Meghan Jones](https://github.com/meghanrjones) (see https://github.com/GenericMappingTools/egu22pygmt).
+- **June 2022**: The repository now includes the `mola32.nc` file, along with a 3D map of *Valles Marineris* and a map of Jezero Crater.
+- **August 2023**: New ideas are being explored, with a focus on mapping Europa. [Read more here](https://www.planetary.org/articles/0218-mapping-europa).
+- **April 2024**: Upgraded to the latest version of `pygmt`.
+- **July 2024**: The `binder` option has been removed due to slow performance; additional updates applied.
+- **November 2024**: Full update of all package versions, featuring `pygmt` 0.13.0.
 
 Some other experiments, bonus maps and more tutorials geared towards some planets and moons in our solar system will be here soon.<br>
 
