@@ -14,10 +14,10 @@ History:<br>
 
 Some other experiments, bonus maps and more tutorials geared towards some planets and moons in our solar system will be here soon.<br>
 
-If you are in a hurry, you can jump directly to the colab version here. Just follow the instructions in the notebook. <a href="https://github.com/andrebelem/MarsMaps/blob/main/Mars%20Maps%20with%20pygmt%20%5Bextended%20version%5D.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br>
+If you are in a hurry, you can jump directly to the colab version here. Just follow the instructions in the notebook. <a href="https://github.com/andrebelem/PlanetaryMaps/blob/main/Mars%20Maps%20with%20pygmt%20%5Bextended%20version%5D.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br>
 
 Reference:<br>
-Tian, Dongdong, Uieda, Leonardo, Leong, Wei Ji, Schlitzer, William, Fröhlich, Yvonne, Grund, Michael, Jones, Max, Toney, Liam, Yao, Jiayuan, Magen, Yohai, Jing-Hui, Tong, Materna, Kathryn, Belem, Andre, Newton, Tyler, Anant, Abhishek, Ziebarth, Malte, Quinn, Jamie, & Wessel, Paul. (2023). PyGMT: A Python interface for the Generic Mapping Tools (v0.10.0). Zenodo. https://doi.org/10.5281/zenodo.8303186.<br>
+Tian, D., Uieda, L., Leong, W. J., Fröhlich, Y., Schlitzer, W., Grund, M., Jones, M., Toney, L., Yao, J., Magen, Y., Jing-Hui, T., Materna, K., Belem, A., Newton, T., Anant, A., Ziebarth, M., Quinn, J., & Wessel, P. (2024). PyGMT: A Python interface for the Generic Mapping Tools (v0.13.0). Zenodo. https://doi.org/10.5281/zenodo.13679420<br>
 
 
 
