@@ -1,21 +1,28 @@
-README_OR_DIE.TXT
+# README_OR_DIE.TXT
 
-When cloning this repository to your machine to run examples locally,
-it's necessary to have GMT and PyGMT installed in an environment first.
-Users can use the requirements.txt (and environment.yml) file to set up their environment,
-but it's highly recommended to seek details about GMT and PyGMT on the
-website https://www.pygmt.org/latest/get_started/index.html.
+## Setting Up to Run Examples Locally
 
-Remember to activate your environment "pygmt" before to use these notebooks and install jupyter notebook. **Important note**: In my case, I use miniforge, and I needed to install "notebook" and "ipykernel" in my pygmt environment. 
+To run the examples in this repository on your machine, you need to have both GMT and PyGMT installed in a dedicated environment. You can use the provided `requirements.txt` or `environment.yml` file to set up the environment. However, we strongly recommend visiting the official PyGMT documentation for detailed installation instructions: [Getting Started with PyGMT](https://www.pygmt.org/latest/get_started/index.html).
 
-Run `pip install notebook` to install Jupyter notebook, if not already installed.
+## Environment Activation and Jupyter Setup
 
-Run `pip install ipykernel` to install ipykernel in this environment.
+Once your environment (e.g., `pygmt`) is set up, remember to activate it before running these notebooks. Additionally, ensure that Jupyter Notebook is installed in this environment.
 
-Run `python -m ipykernel install --user --name=pygmt` where pygmt is the name of the environment.
+If you are using Miniforge (as in my setup), it may be necessary to install "notebook" and "ipykernel" manually within the `pygmt` environment.
 
-This repository is a more in-depth complement to the course material at
-https://github.com/GenericMappingTools/egu22pygmt.
+To install these, use the following commands:
 
-Feel free to modify according to your needs.
-@andrebelem@id.uff.br
+pip install notebook        # Install Jupyter Notebook
+pip install ipykernel       # Install ipykernel in this environment
+
+Then, register the kernel with:
+
+python -m ipykernel install --user --name=pygmt
+
+
+About This Repository
+This repository serves as an in-depth supplement to the course material available at: EGU22 PyGMT Course Material.
+
+Feel free to adapt any of the content here to better fit your needs.
+
+For questions, please contact: andrebelem@id.uff.br
